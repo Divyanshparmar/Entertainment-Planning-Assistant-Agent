@@ -1,0 +1,21 @@
+{
+  "movies": [
+    {"name": "Inception", "rating": 4.8, "genre": "Sci-Fi"},
+    {"name": "Interstellar", "rating": 4.7, "genre": "Sci-Fi"},
+    {"name": "Avengers", "rating": 4.5, "genre": "Action"}
+  ],
+  "task_templates": {
+    "movie_review": [
+      "Fetch movies",
+      "Get ratings",
+      "Analyze reviews",
+      "Generate summary"
+    ],
+    "event_planning": [
+      "Select event",
+      "Book venue",
+      "Send invitations",
+      "Finalize schedule"
+    ]
+  }
+}
